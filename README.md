@@ -8,4 +8,4 @@ Input to transformer : Multi model transportation system was started in Hyderaba
 Predicted target : హైదరాబాదు నగరంలో 2003లో 2003లో మోడల్ రవాణా వ్యవస్థ పెట్టు మొదలైంది.
 
 
-Trained model for 20 epochs and i generated a bleu score of 0.4%
+Trained model for 20 epochs and i generated a bleu score of 0.4
