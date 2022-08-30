@@ -1,4 +1,4 @@
-# Transformer froms scracthformachinetranslation
+# Transformer from scracthformachinetranslation
 
 Model output:
 Input to transformer : Multi model transportation system was started in Hyderabad in 2003.
