@@ -4,6 +4,7 @@
 You can find the complete torch code for transformers from scratch.
 
 Model output:
+
 Input to transformer : Multi model transportation system was started in Hyderabad in 2003.
 
  Actual target : హైదరాబాదు నగరంలో 2003లో మల్టీ మోడల్ రవాణా వ్యవస్థను మొదలు పెట్టారు.
