@@ -89,7 +89,7 @@ In order to mask the target you can do it by below code
 
 One data is passed to masked self-attention only key value  & query from masked self attention is passed to Multi head attention which is normal attention.
 
-Decoder block we contain 6 decoder layers as well .
+Decoder block contain 6 decoder layers as well .
 
 At the end of the decoder block we pass the output from last decoder to a linear to get logits and pass them to softmax to get output probabilities.
 
