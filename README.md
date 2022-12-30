@@ -1,4 +1,4 @@
-# Transformer from scracth for machinetranslation task from English to Telugu
+# Transformer from scratch for machinetranslation task from English to Telugu
 
 
 You can find the complete torch code for transformers from scratch.
