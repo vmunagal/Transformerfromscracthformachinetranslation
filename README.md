@@ -49,6 +49,8 @@ Encoder consist of mainly 2 parts
 
 Let me give a reason why we need the self-attention 
 
+![img_3.png](img_3.png)
+
 Self-attention helps to represent "word" its itself by doing a weight neighbourhood and it will pass the data to feed forward network to get better features of it 
 
 self-attention consist of three main "query","key","value" vectors which comes form WQ,WK,WV weights matrix 
